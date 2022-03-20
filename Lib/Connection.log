@@ -1,0 +1,38 @@
+'1': Loading file '/Work/Learn/FPGA/Xilinix/Elbertv2/Chu04/HeartBt_04/BoardTest.bit' ...
+done.
+INFO:iMPACT:1777 - 
+Reading /opt/Xilinx/14.7/ISE_DS/ISE/spartan3a/data/xc3s50a.bsd...
+INFO:iMPACT:2257 - Startup Clock has been changed to 'JtagClk' in the bitstream stored in memory,
+but the original bitstream file remains unchanged.
+UserID read from the bitstream file = 0xFFFFFFFF.
+INFO:iMPACT:501 - '1': Added Device xc3s50a successfully.
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+GUI --- Auto connect to cable...
+AutoDetecting cable. Please wait.
+*** WARNING ***: When port is set to auto detect mode, cable speed is set to default 6 MHz regardless of explicit arguments supplied for setting the baud rates
+PROGRESS_START - Starting Operation.
+If you are using the Platform Cable USB, please refer to the USB Cable Installation Guide (UG344) to install the libusb package.
+ Using windrvr6 driver.
+Connecting to cable (Usb Port - USB21).
+Checking cable driver.
+File version of /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/xusbdfwu.hex = 1030.
+File version of /etc/hotplug/usb/xusbdfwu.fw/xusbdfwu.hex = 1030.
+ libusb-driver.so version: 2018-04-01 03:36:57.
+ Cable PID = 0008.
+ Max current requested during enumeration is 74 mA.
+Type = 0x0004.
+ Cable Type = 3, Revision = 0.
+ Setting cable speed to 6 MHz.
+Cable connection established.
+Firmware version = 1028.
+File version of /opt/Xilinx/14.7/ISE_DS/ISE/data/xusb_xlp.hex = 1303.
+Firmware hex file version = 1303.
+Downloading /opt/Xilinx/14.7/ISE_DS/ISE/data/xusb_xlp.hex.
+Downloaded firmware version = 1303.
+PLD file version = 0012h.
+ PLD version = 0012h.
+PROGRESS_END - End Operation.
+Elapsed time =      1 sec.
+Type = 0x0004.
+
